@@ -1,5 +1,5 @@
 # wails-desktop-app-demo
-Simple Golang desktop application demo using Wails
+Simple Golang desktop application demo using Wails v3
 
 ## Tech Stack
 
