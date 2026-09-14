@@ -4,15 +4,14 @@ Simple Golang desktop application demo using Wails
 ## Tech Stack
 
 **Backend**
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Wails](https://img.shields.io/badge/Wails-2C2C2C?logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-Backend-lightgrey?style=flat-square)
+![Wails](https://img.shields.io/badge/Wails-Desktop-lightgrey?style=flat-square)
 
 **Frontend**
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![PrimeVue](https://img.shields.io/badge/PrimeVue-3C3C3C?logo=vue.js&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FECC00?logo=vue.js&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-Frontend-lightgrey?style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-lightgrey?style=flat-square)
+![PrimeVue](https://img.shields.io/badge/PrimeVue-UI-lightgrey?style=flat-square)
+![Pinia](https://img.shields.io/badge/Pinia-State-lightgrey?style=flat-square)
 
 **Build & Distribution**
-- Native Windows build via Wails
-- Packaged as `.exe` for end‑user devices
+![Windows](https://img.shields.io/badge/Windows-.exe-lightgrey?style=flat-square)
