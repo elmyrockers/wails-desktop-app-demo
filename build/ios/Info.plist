@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
     <key>CFBundleExecutable</key>
-    <string>temp-wails.exe</string>
+    <string>wails-desktop-app-demo.exe</string>
     <key>CFBundleIdentifier</key>
-    <string>com.xeno.tempwails</string>
+    <string>com.xeno.wailsdesktopappdemo</string>
     <key>CFBundleName</key>
     <string>My Product</string>
     <key>CFBundleDisplayName</key>

@@ -6,9 +6,9 @@
         <key>CFBundleName</key>
             <string>My Product</string>
         <key>CFBundleExecutable</key>
-            <string>temp-wails.exe</string>
+            <string>wails-desktop-app-demo.exe</string>
         <key>CFBundleIdentifier</key>
-            <string>com.xeno.tempwails</string>
+            <string>com.xeno.wailsdesktopappdemo</string>
         <key>CFBundleVersion</key>
             <string>0.1.0</string>
         <key>CFBundleGetInfoString</key>

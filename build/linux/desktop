@@ -1,13 +1,13 @@
 [Desktop Entry]
 Version=1.0
 Name=My Product
-Comment=A temp-wails application
+Comment=A wails-desktop-app-demo application
 # The Exec line includes %u to pass the URL to the application
-Exec=/usr/local/bin/temp-wails.exe %u
+Exec=/usr/local/bin/wails-desktop-app-demo.exe %u
 Terminal=false
 Type=Application
-Icon=temp-wails.exe
+Icon=wails-desktop-app-demo.exe
 Categories=Utility;
-StartupWMClass=temp-wails.exe
+StartupWMClass=wails-desktop-app-demo.exe
 
  

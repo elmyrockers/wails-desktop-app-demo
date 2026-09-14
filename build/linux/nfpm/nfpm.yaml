@@ -3,26 +3,26 @@
 #
 # The lines below are called `modelines`. See `:help modeline`
 
-name: "temp-wails.exe"
+name: "wails-desktop-app-demo.exe"
 arch: ${GOARCH}
 platform: "linux"
 version: "0.1.0"
 section: "default"
 priority: "extra"
 maintainer: ${GIT_COMMITTER_NAME} <${GIT_COMMITTER_EMAIL}>
-description: "A temp-wails application"
+description: "A wails-desktop-app-demo application"
 vendor: "Xeno Software Solutions"
 homepage: "https://wails.io"
 license: "MIT"
 release: "1"
 
 contents:
-  - src: "./bin/temp-wails.exe"
-    dst: "/usr/local/bin/temp-wails.exe"
+  - src: "./bin/wails-desktop-app-demo.exe"
+    dst: "/usr/local/bin/wails-desktop-app-demo.exe"
   - src: "./build/appicon.png"
-    dst: "/usr/share/icons/hicolor/128x128/apps/temp-wails.exe.png"
-  - src: "./build/linux/temp-wails.exe.desktop"
-    dst: "/usr/share/applications/temp-wails.exe.desktop"
+    dst: "/usr/share/icons/hicolor/128x128/apps/wails-desktop-app-demo.exe.png"
+  - src: "./build/linux/wails-desktop-app-demo.exe.desktop"
+    dst: "/usr/share/applications/wails-desktop-app-demo.exe.desktop"
 
 # Default dependencies for the GTK4 + WebKitGTK 6.0 stack (Ubuntu 24.04+ / Debian 13+)
 depends:

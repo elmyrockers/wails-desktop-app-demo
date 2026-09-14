@@ -5,7 +5,7 @@
 !include "FileFunc.nsh"
 
 !ifndef INFO_PROJECTNAME
-    !define INFO_PROJECTNAME "temp-wails"
+    !define INFO_PROJECTNAME "wails-desktop-app-demo"
 !endif
 !ifndef INFO_COMPANYNAME
     !define INFO_COMPANYNAME "Xeno Software Solutions"

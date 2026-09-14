@@ -8,7 +8,7 @@
         AllowPromptForPassword="false">
     </Settings>
     <Installer
-        Path="temp-wails.exe"
+        Path="wails-desktop-app-demo.exe"
         Arguments=""
         InstallLocation="C:\Program Files\Xeno Software Solutions\My Product">
     </Installer>
@@ -18,17 +18,17 @@
         PublisherName="CN=Xeno Software Solutions"
         PublisherDisplayName="Xeno Software Solutions"
         Version="0.1.0.0"
-        PackageDescription="A temp-wails application">
+        PackageDescription="A wails-desktop-app-demo application">
         <Capabilities>
             <Capability Name="runFullTrust" />
             
         </Capabilities>
         <Applications>
             <Application
-                Id="com.xeno.tempwails"
-                Description="A temp-wails application"
+                Id="com.xeno.wailsdesktopappdemo"
+                Description="A wails-desktop-app-demo application"
                 DisplayName="My Product"
-                ExecutableName="temp-wails.exe"
+                ExecutableName="wails-desktop-app-demo.exe"
                 EntryPoint="Windows.FullTrustApplication">
                 
             </Application>
@@ -43,11 +43,11 @@
             <Framework>false</Framework>
             <DisplayName>My Product</DisplayName>
             <PublisherDisplayName>Xeno Software Solutions</PublisherDisplayName>
-            <Description>A temp-wails application</Description>
+            <Description>A wails-desktop-app-demo application</Description>
             <Logo>Assets\AppIcon.png</Logo>
         </Properties>
     </PackageInformation>
-    <SaveLocation PackagePath="temp-wails.msix" />
+    <SaveLocation PackagePath="wails-desktop-app-demo.msix" />
     <PackageIntegrity>
         <CertificatePath></CertificatePath>
     </PackageIntegrity>
