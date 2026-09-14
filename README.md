@@ -1,17 +1,15 @@
 # wails-desktop-app-demo
 Simple Golang desktop application demo using Wails
 
-## Tech Stack
-
 **Backend**
-![Go](https://img.shields.io/badge/Go-Backend-lightgrey?style=flat-square)
-![Wails](https://img.shields.io/badge/Wails-Desktop-lightgrey?style=flat-square)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge)
+![Wails](https://img.shields.io/badge/Wails-2C2C2C?style=for-the-badge)
 
 **Frontend**
-![Vue.js](https://img.shields.io/badge/Vue.js-Frontend-lightgrey?style=flat-square)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-lightgrey?style=flat-square)
-![PrimeVue](https://img.shields.io/badge/PrimeVue-UI-lightgrey?style=flat-square)
-![Pinia](https://img.shields.io/badge/Pinia-State-lightgrey?style=flat-square)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
+![PrimeVue](https://img.shields.io/badge/PrimeVue-3C3C3C?style=for-the-badge)
+![Pinia](https://img.shields.io/badge/Pinia-FECC00?style=for-the-badge)
 
-**Build & Distribution**
-![Windows](https://img.shields.io/badge/Windows-.exe-lightgrey?style=flat-square)
+**Distribution**
+![Windows](https://img.shields.io/badge/Windows-.exe-0078D6?style=for-the-badge)
