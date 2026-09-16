@@ -1,8 +1,10 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-// Import individual generated functions from the service module
-import { Greet, GreetMany } from "../bindings/github.com/elmyrockers/wails-desktop-app-demo/greetservice";
+import router from './router'
 
 
 
-createApp(App).mount('#app');
+
+createApp(App)
+		.use(router)
+		.mount('#app');
