@@ -1,1 +1,1 @@
-<template></template>
+<template>Member View</template>
